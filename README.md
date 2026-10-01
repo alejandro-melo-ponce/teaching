@@ -47,7 +47,7 @@ As a graduate student instructor, I held full responsibility for these courses. 
 
 My [general-equilibrium lecture notes](https://github.com/alejandro-melo-ponce/ge-notes) began with ECON498, and I wrote much of the mathematical material while teaching the course. They have since grown to book length and beyond the scope of that course, while retaining their purpose and character as lecture notes. I do not intend to develop them for formal publication as a book.
 
-These notes are intended to guide students, encourage their interest in the subject, and serve as a main reference during the course and in more advanced study. They draw on many sources acknowledged throughout the document; I make no claim to originality in the underlying content. I maintain the notes in their own repository and continue to revise and expand them.
+These notes are intended to guide students, encourage their interest in the subject, and serve as a main reference during the course and in more advanced study. They draw on many sources acknowledged throughout the document; I make no claim to originality in the underlying ideas or results. My contribution lies in the organization, presentation, emphasis, and connections drawn across the material, reflecting my own taste and approach to teaching. In some cases, this also includes my own proofs of established results. I maintain the notes in their own repository and continue to revise and expand them.
 
 ## Acknowledgments and inspiration
 
