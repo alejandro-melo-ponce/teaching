@@ -2,7 +2,7 @@
 
 **Alejandro Melo Ponce**
 
-This repository brings together teaching materials from courses I taught at Nazarbayev University and Stony Brook University, from introductory economics to advanced theory and research seminars. The collection includes lecture notes, saved board work, problem sets, computational examples, and retired examinations, as well as syllabi that document how I designed and revised the courses.
+This repository brings together teaching materials from courses I taught at Nazarbayev University and Stony Brook University, from introductory economics to advanced theory and research seminars. The collection spans eleven years of teaching (2015–2026), from my time as a graduate student instructor to my role as an assistant professor. It includes lecture notes, saved board work, problem sets, computational examples, and retired examinations, as well as syllabi that document how I designed and revised the courses.
 
 ## Teaching approach
 
