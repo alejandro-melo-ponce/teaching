@@ -1,0 +1,26 @@
+# ECON101 — Fall2024 problem sets and assignments
+
+I used these exercises for tutorials, practice, or assignments. I include the available solutions alongside the questions. Some solutions are handwritten or cover only selected questions.
+
+- [Budget Sets Preferences And Choice Solutions](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Budget-Sets-Preferences-And-Choice-Solutions_Fall2024.pdf)
+- [Budget Sets Preferences Choice PS](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Budget-Sets-Preferences-Choice-PS_Fall2024.pdf)
+- [Comparative Advantage Problem Set Solutions](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Comparative-Advantage-Problem-Set-Solutions_Fall2024.pdf)
+- [Comparative Advantage Problem Set](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Comparative-Advantage-Problem-Set_Fall2024.pdf)
+- [Cost Minimization Problem Set Solutions](../../Problem%20Sets%20and%20Assignments/Fall2023/ECON101_Solutions-cost-problem-Set_Fall2023.pdf)
+- [Cost Minimization Problem Set](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Cost-Minimization-Problem-Set_Fall2024.pdf)
+- [Cost of Opportunity Problem Set Solutions](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Cost-of-Opportunity-Problem-Set-Solutions_Fall2024.pdf)
+- [Cost of Opportunity Problem Set](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Cost-of-Opportunity-Problem-Set_Fall2024.pdf)
+- [Demand Systems Income and Substitution Effects PS solutions](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Demand-Systems-Income-and-Substitution-Effects-PS-solutions_Fall2024.pdf)
+- [Demand Systems Income and Substitution Effects PS](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Demand-Systems-Income-and-Substitution-Effects-PS_Fall2024.pdf)
+- [Elasticity Problem Set](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Elasticity-Problem-Set_Fall2024.pdf)
+- [Elasticity PS solutions](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Elasticity-PS-solutions_Fall2024.pdf)
+- [Preferences warm up PS solutions](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Preferences-warm-up-PS-solutions_Fall2024.pdf)
+- [Preferences warm up PS](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Preferences-warm-up-PS_Fall2024.pdf)
+- [Production Functions Problem Set Solutions](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Production-Functions-Problem-Set-Solutions_Fall2024.pdf)
+- [Production Functions Problem Set](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Production-Functions-Problem-Set_Fall2024.pdf)
+- [Profit Maximization and Industry Supply Problem Set](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Profit-Maximization-and-Industry-Supply-Problem-Set_Fall2024.pdf)
+- [Solutions PS Profits Supply Mkt Eq](../../Problem%20Sets%20and%20Assignments/Fall2023/ECON101_Solutions-PS-Profits-Supply-Mkt-Eq_Fall2023.pdf)
+- [Supply and Demand Ps Solutions](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Supply-and-Demand-Ps-Solutions_Fall2024.pdf)
+- [Supply and Demand Problem Set](../../Problem%20Sets%20and%20Assignments/Fall2023/ECON101_Supply-and-Demand-Problem-Set-Tutorial_Fall2023.pdf)
+- [Taxes Subsidies PS solutions](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Taxes-Subsidies-PS-solutions_Fall2024.pdf)
+- [Taxes Subsidies PS](../../Problem%20Sets%20and%20Assignments/Fall2024/ECON101_Taxes-Subsidies-PS_Fall2024.pdf)
