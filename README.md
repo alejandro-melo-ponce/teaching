@@ -43,7 +43,7 @@ As a graduate student instructor, I held full responsibility for these courses. 
 | [ECO360 — Money and Banking](Stony%20Brook%20University/Money%20and%20Banking/README.md) | Fall 2015 | Syllabus, my Mundell–Fleming model handout, and exams. |
 | [ECO364 — Thinking Strategically](Stony%20Brook%20University/Thinking%20Strategically/README.md) | Summers 2017–2019 | 2019 syllabus and 2018 lecture notes for the online course. |
 
-## General-equilibrium lecture notes
+## General Equilibrium lecture notes
 
 My [general-equilibrium lecture notes](https://github.com/alejandro-melo-ponce/ge-notes) began with ECON498, and I wrote much of the mathematical material while teaching the course. They have since grown to book length and beyond the scope of that course, while retaining their purpose and character as lecture notes. I do not intend to develop them for formal publication as a book.
 
